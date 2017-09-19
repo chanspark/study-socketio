@@ -1,0 +1,8 @@
+{
+  "name": "socket-study",
+  "version": "0.0.1",
+  "description": "socket.io study app",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
